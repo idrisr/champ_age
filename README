@@ -1,0 +1,13 @@
+# project to calculate average age of NBA champs
+# Ages are weighted as a percentage of regular season minutes played
+# all data from basketball-reference.com
+# ages are calculated as of Feb 1 of season
+
+# Project intended as a way to get 'hands dirty' using R
+
+# 
+# Author: Idris Raja
+# email:  idris.raja@gmail.com
+# linkedin: linkedin.com/in/idrisraja
+
+
