@@ -22,6 +22,6 @@ abline(29, 0,lty=3, lwd=1)
 abline(31, 0,lty=3, lwd=1)
 
 
-text(m$Year, m$Age, m$Team, offset=2, cex=0.5)
+text(m$Year, m$Age, m$Team, offset=2, cex=0.7,  )
 grid(NA, NULL,lwd=1, col=1, lty=3)
 dev.off()
